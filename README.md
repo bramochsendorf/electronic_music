@@ -4,8 +4,10 @@ When I moved to Amsterdam (~2005) I discovered electronic music. Particularly po
 
 Looking back, it strikes me how fast these particular music genres went in and out of fashion, as there are major differences between e.g. Electro and Deephouse (although this may not appear so obvious to the untrained ear). To see what may drive particular mood-swings in the electronic music scene I explored how different genres of electronic music have evolved over time. Which music characteristics determine how popular (or 'mainstream') a given genre is (and will be)? 
 
+## Conclusion ##
 My main conclusion is that popular electronic music is becoming louder, not particular danceable, and full of negative energy. Therefore, a good bet for record labels or aspiring DJs is to produce ear-splitting house/techno tracks (as exemplified by the popularity of artists like, e.g., Skrillex). Be sure to warn your neighbors beforehand, though. 
 
+## Analysis ## 
 To come to this interesting conclusion, I queried the Spotify API to obtain tracks of a given music genre during the 1980-2016 timespan. For every track, I use the following metrics:
 
 (1) Popularity --> parameterized from 0 (least popular) to 1 (most popular). Based on Spotify's magic algorithm (read: black box) on total playcount and how recent these are 
@@ -22,7 +24,7 @@ To come to this interesting conclusion, I queried the Spotify API to obtain trac
 
 These parameters give us some insight into how different music genres have evolved over time, and may predict which genres will be hottest in the coming years. Results are plotted for each genre separately (spotify_evolution_plot.ipynb), and combined sets (spotify_combined_evolution_plot.ipynb). Be sure to check out both plots.
 
-Interesting features of the data:
+## Some thoughts on the data ## 
 - house and techno are getting more popular since the early and mid 2000's, respectively (caused by the surgence of laptop DJ's?). Electro has a more constant fan-base, with perhaps a small lingering fetish for mid-to-late 80's electro music.
 
 - as a sanity check, I compared the 'House' genre with its subgenres 'Electro House' and 'Deep House', which are showing the same trends in music characteristics.
