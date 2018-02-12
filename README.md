@@ -20,7 +20,7 @@ To come to this interesting conclusion, I queried the Spotify API to obtain trac
 
 (6) Valence --> parameterized from 0 to 1 through one of Spotify's magic algorithms. Gives a measure of 'positive' (value 1) or 'negative' energy (value 0) embedded in a song.
 
-These parameters give us some insight into how different music genres have evolved over time, and may predict which genres will be hottest in the coming years.
+These parameters give us some insight into how different music genres have evolved over time, and may predict which genres will be hottest in the coming years. Results are plotted for each genre separately (spotify_evolution_plot.ipynb), and combined sets (spotify_combined_evolution_plot.ipynb). Be sure to check out both plots.
 
 Interesting features of the data:
 - house and techno are getting more popular since the early and mid 2000's, respectively (caused by the surgence of laptop DJ's?). Electro has a more constant fan-base, with perhaps a small lingering fetish for mid-to-late 80's electro music.
