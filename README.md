@@ -1,6 +1,6 @@
 # The evolution of house, techno, and electro.
 
-When I moved to Amsterdam (~2005) I discovered electronic music. Particularly popular in the Amsterdam club scene during that time was Electro (because of the likes of Boys Noize, Tiefschwarz, Digitalism, Justice, MSTRKRFT etc.), which was followed up by waves of Minimal, Tech House, Dub Step, Deephouse, you name it. 
+When I moved to Amsterdam (~2005) I discovered electronic music. Particularly popular in the Amsterdam club scene during that time was Electro/Electro House (because of the likes of Boys Noize, Tiefschwarz, Digitalism, Justice, MSTRKRFT etc.), which was followed up by waves of Minimal, Tech House, Dub Step, Deep House, you name it. 
 
 Looking back, it strikes me how fast these particular music genres went in and out of fashion (there are major differences between Electro and Deephouse...!). To see what may drive particular mood-swings in the electronic music scene I explored how different genres of electronic music have evolved over time: which music characteristics determine how popular (or 'mainstream') a given genre is (and will be)? 
 
