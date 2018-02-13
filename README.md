@@ -25,12 +25,8 @@ To come to this interesting conclusion, I queried the Spotify API to obtain trac
 These parameters give us some insight into how different music genres have evolved over time, and may predict which genres will be hottest in the coming years. Results are plotted for each genre separately (spotify_evolution_plot.ipynb), and combined sets (spotify_combined_evolution_plot.ipynb). Be sure to check out both plots.
 
 ## Some thoughts on the data ## 
-- house and techno are getting more popular since the early and mid 2000's, respectively (caused by the surgence of laptop DJ's?). Electro has a more constant fan-base, with perhaps a small lingering fetish for mid-to-late 80's electro music.
+- House and Techno are getting more popular since the early and mid 2000's, respectively (caused by the surgence of laptop DJ's?). Electro has a more constant fan-base, with perhaps a small lingering obsession for mid-to-late 80's electro music.
 
-- as a sanity check, I compared the 'House' genre with its subgenres 'Electro House' and 'Deep House', which are showing the same trends in music characteristics.
+- as a sanity check, I compared the 'House' genre with its younger subgenres 'Electro House' and 'Deep House', which are showing the same trends in music characteristics. 
 
-- house and electro are becoming louder, which does not help their danceability.
-
-- techno remains very instrumental, electro very 'vocal'.
-
-- all three music genres have decreasing valences, most notably Techno.
+- the House and Electro House seem to be the most evolving music genres throughout the last decade, with significant changes in their loudness, danceability, and instrumentalness, which go hand-in-hand with an increased popularity. The techno and electro charts are more difficult to quantify, as the spread amongst individual songs is larger. 
