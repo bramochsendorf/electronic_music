@@ -5,7 +5,7 @@ When I moved to Amsterdam (~2005) I discovered electronic music. Particularly po
 Looking back, it strikes me how fast these particular music genres went in and out of fashion, as there are major differences between e.g. Electro and Deephouse (although this may not appear so obvious to the untrained ear). To see what may drive particular mood-swings in the electronic music scene I explored how different genres of electronic music have evolved over time. Which music characteristics determine how popular (or 'mainstream') a given genre is (and will be)? 
 
 ## Conclusion ##
-My main conclusion is that popular electronic music is becoming louder, full of negative energy, and for the house genre, not particularly danceable. Therefore, a good bet for record labels or aspiring DJs is to produce ear-splitting house bangers (as exemplified by the popularity of artists like, e.g., Skrillex), or dark techno tracks. Be sure to warn your neighbors beforehand, though. 
+My main conclusion is that popular electronic music is becoming louder, full of negative energy, and for the house genre, not particularly danceable. Therefore, a good bet for record labels or aspiring DJs is to produce ear-splitting house tracks (as exemplified by the popularity of artists like, e.g., Skrillex), or dark techno tracks. Be sure to warn your neighbors beforehand, though. 
 
 ## Analysis ## 
 To come to this interesting conclusion, I queried the Spotify API to obtain tracks of a given music genre during the 1980-2016 timespan (spotify_query.py). 
